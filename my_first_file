@@ -9,5 +9,9 @@ cout<<"My roll number is:"<<"23-ST-039";
 
 cout<<"The sum of two numbers is:"<<a+b<<endl;
 
+//subtraction
+
+cout<<"The difference of two numbers is:"<<a-b<<endl;
+
 return 0;
 }
