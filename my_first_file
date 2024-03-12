@@ -1,0 +1,13 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+
+cout<<"My name is:"<<"Muhammad Umair Butt";
+cout<<"My roll number is:"<<"23-ST-039";
+//addition
+
+cout<<"The sum of two numbers is:"<<a+b<<endl;
+
+return 0;
+}
